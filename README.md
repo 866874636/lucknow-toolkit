@@ -1,20 +1,22 @@
-# Lucknow Toolkit - Ethical Hacking Lab
+# Lucknow Toolkit 🛡️
 
-A personal toolkit developed in Lucknow for learning and practicing ethical hacking and network scanning in a safe lab environment.
+A Python-based Ethical Hacking & OSINT toolkit developed for educational purposes.
 
-### What's Inside
-- final_toolkit.py - Main toolkit
-- scanner.py - Port scanner
-- report.txt - Sample reports
-- eth-hack-lab/ - Practice lab
+This toolkit is designed for cybersecurity learners from Lucknow to understand network scanning, information gathering, and security testing in a safe and legal environment.
 
-### How to Use
+### 🚀 Features
+- **Port Scanner:** Fast TCP port scanner for network analysis
+- **Network Scanner:** Discover active devices on local network
+- **Educational Focus:** Clean, documented Python code for learning
+
+### 🛠️ Tech Stack
+- Python 3
+- Socket & Scapy Libraries
+- Termux Compatible
+
+### 📦 How to Use
+
+```bash
 git clone https://github.com/866874636/lucknow-toolkit.git
 cd lucknow-toolkit
-python final_toolkit.py
-
-### Disclaimer
-This project is for educational purposes only. Use only on your own systems.
-
-### Author
-Ritik - Lucknow, UP
+python3 final_toolkit.py
